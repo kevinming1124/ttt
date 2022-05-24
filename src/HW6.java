@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class HW6 {
-
+	//stop trolling~~~
 	public static void main(String[] args) {
 		Scanner keyboard = new Scanner(System.in);
 		int n=keyboard.nextInt();
